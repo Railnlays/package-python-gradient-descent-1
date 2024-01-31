@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "template"
+name = "gradient-descent-1"
 version = "0.1.0"
 description = "package python gradient descent"
 authors = ["Julio Martinez del Pino <juliomdp92@gmail.com>"]
